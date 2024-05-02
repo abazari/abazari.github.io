@@ -1,64 +1,29 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Talks"
+permalink: /talks/
 author_profile: true
 redirect_from:
-  - /resume
+  - /Talks
 ---
 
 {% include base_path %}
 
-Education
+Conference Publications
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Reza Abazari, Regularization Methods for Discrete Ill-Posed Problems, 3th International Conference on Mathematics: An Istanbul Meeting for World Mathematicians, Istanbul, Turkey, 3-5 July 2019. [Invited speaker]
+* Reza Abazari, Inverse Problems in Image Processing, Annual meeting in "Research week", University of Tabriz,
+Tabriz, Iran, 21-29 November, 2017. [Talk]
+* Reza Abazari, Micro-Local Analysis and its Applications, Institute for Advanced Studies in Basic Sciences
+(IASBS), Zanjan, Iran, 23-25 April, 2017.
+* Reza Abazari, Wavelets with composite dilation, Annual meeting in ”Research week”, University of Tabriz, Tabriz,
+Iran, 21-29 November, 2016. [Talk]
+* Reza Abazari, The (G’/G)-expansion method for the coupled Boussinesq equations, International Conference on
+Mechanical Behavior of Materials, ICM 11, June 5-9, 2011, Milano, Italy.
+* Reza Abazari, A. Borhanifar, Numerical study of a nonlinear matrix evolution equation using matrix differential
+transformation method, 40-th Annual Iranian Mathematics Conference, 17-20 August 2009, Tehran, Iran.
+* Reza Abazari, Numerical solution of heat equation involving fixed Interfaces, 38th Annual Iranian Mathematics
+Conference, 3-6 September 2007, Zanjan, Iran.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

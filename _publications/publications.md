@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
+
 Journal Papers
 ======
 * R. Abazari, H. Rezazadeh, L. Akinyemi, M. Inc, Numerical simulation of a binary alloy of 2D Cahn–Hilliard model

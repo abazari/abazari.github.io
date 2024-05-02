@@ -8,12 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Papers
 ======
-
-
-Published Research
+Journal Papers
 ======
 * R. Abazari, H. Rezazadeh, L. Akinyemi, M. Inc, Numerical simulation of a binary alloy of 2D Cahn–Hilliard model
 for phase separation, Comp. Appl. Math. 41, 389 (2022). https://doi.org/10.1007/s40314-022-02109-5.

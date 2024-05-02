@@ -114,38 +114,15 @@ Prob. Eng, (2009), Article ID 969610, 17 pages, doi:10.1155/2009/969610.
 * A. Borhanifar, Reza Abazari, Numerical Solution of Second-Order Matrix Differential Models Using Cubic Matrix
 Splines, Appl. Math. Sci, 1 (59) (2007) 2927-2937
   
-Skills
+Manuscripts in preparation
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Alternative directional method for a weighted sum of anisotropic and isotropic TV image reconstruction.
+* Intrinsically parallel difference method for the partial-integro differential equations with weakly singular kernel.
+* Optimal error estimates of finite difference methods for the 2D Kuramoto-Tsuzuki equation.
+* Directional total generalized variation (DTGV) and shearlet method for image reconstruction.
+* A high-order kernel smoothing model with shearlet transform for Image restoration.
+* Three-dimensional MRI reconstruction via weighted difference of isotropic-anisotropic TV method.
+* Reza Abazari, Kenan Yildirim, Numerical study of the 2D Cahn-Hilliard model of phase separation with logarithmic
+potential function.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-ccc
----
-  xxx
-  
-  uuu
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

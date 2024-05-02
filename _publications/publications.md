@@ -46,9 +46,11 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-  {xxx}\n
-  {uuu}
+ccc
+---
+  xxx
+  
+  uuu
   
 Talks
 ======

@@ -1,4 +1,11 @@
-
+---
+layout: archive
+#title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
 {% include base_path %}
 Additional information can be found in the [CV](http://abazari.github.io/files/CV-RezaAbazari.pdf).

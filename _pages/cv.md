@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Additional information can be found in the [CV](http://abazari.github.io/files/CV.pdf).
+Additional information can be found in the [CV](http://abazari.github.io/files/CV-RezaAbazari.pdf).
 
 Education
 ======

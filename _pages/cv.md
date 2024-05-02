@@ -10,56 +10,26 @@ redirect_from:
 {% include base_path %}
 Additional information can be found in the [CV](http://abazari.github.io/files/CV-RezaAbazari.pdf).
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Positions
+========
+*Assistant Professor, Department of Mathematics, University of Mohaghegh Ardabili, Ardabil, Iran, 2020-Now.
+*Lecturer, Department of Mathematics, University of Mohaghegh Ardabili, Ardabil, Iran, 2017-2020.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+Educations
+=========
+PhD Applied Mathematics, University of Tabriz, Tabriz, Iran, 2017.
+MSc Applied Mathematics, University of Mohaghegh Ardabili, Ardabil, Iran, 2008.
+BSc Pure Mathematics, University of Payame Noor, Ardabil, Iran, 2005.
+Research Interests
+General Applied Mathematics,
+Specific Computational Mathematics, Mathematical methods in medical sciences, Medical Image analyzing.
+Experience
 Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2020-Now Assistant Professor, University of Mohaghegh Ardabili, Ardabil, Iran.
+2017-2020 Lecturer, University of Mohaghegh Ardabili, Ardabil, Iran.
+2015-2017 Lecturer, University of Payame Noor, Ardabil, Iran.
+Researching
+2018-Now Senior Researcher, University of Mohaghegh Ardabili, Ardabil, Iran.
+2014-2018 Researcher, University of Tabriz, Tabriz, Iran.
+2009-2014 Researcher, Young Researchers and Elite Club, Ardabil, Iran.
+2008-2009 Researcher, University of Mohaghegh Ardabili, Ardabil, Iran.

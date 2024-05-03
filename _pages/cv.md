@@ -11,29 +11,29 @@ redirect_from:
 Additional information can be found in the [CV](http://abazari.github.io/files/CV-RezaAbazari.pdf).
 
 Academic Positions
-========
+======
 * Assistant Professor, Department of Mathematics, University of Mohaghegh Ardabili, Ardabil, Iran, 2020-Now.
 * Lecturer, Department of Mathematics, University of Mohaghegh Ardabili, Ardabil, Iran, 2017-2020.
 
 Educations
-=========
+======
 * PhD Applied Mathematics, University of Tabriz, Tabriz, Iran, 2017.
 * MSc Applied Mathematics, University of Mohaghegh Ardabili, Ardabil, Iran, 2008.
 * BSc Pure Mathematics, University of Payame Noor, Ardabil, Iran, 2005.
   
 Research Interests
-========
+======
 * General:  Applied Mathematics,
 * Specific: Computational Mathematics, Mathematical methods in medical sciences, Medical Image analysis.
   
 Teaching Experience
-========
+======
 * Assistant Professor, University of Mohaghegh Ardabili, Ardabil, Iran, 2020-Now.
 * Lecturer, University of Mohaghegh Ardabili, Ardabil, Iran, 2017-2020.
 * Lecturer, University of Payame Noor, Ardabil, Iran, 2015-2017.
   
 Researching Experience
-=========
+======
 * Senior Researcher, University of Mohaghegh Ardabili, Ardabil, Iran, 2018-Now.
 * Researcher, University of Tabriz, Tabriz, Iran, 2014-2018.
 * Researcher, Young Researchers and Elite Club, Ardabil, Iran, 2009-2014.
@@ -41,7 +41,8 @@ Researching Experience
 
 Theses Supervised
 ======
-======
+
+
 MSc Thesis
 ======
 * Elaheh Amanvand, Speckle noise removal in ultrasound images by total variation method,
@@ -52,12 +53,14 @@ bounds, October 2022.
 singular kernel, October 2020.
 
 Skills
-=======
+======
+
+======
 Software Programming
-Python, MATLAB, MAPLE and C++.
-Computer skills L
-A
-T
-E
-X, Microsoft Word, Microsoft Excel, Microsoft Power Point.
-Languages Turkish (mother tongue); Persian (national language); English (fluent); Arabic (intermediate).
+---
+Python, MATLAB, MAPLE, and C++.
+Computer skills LATEX, Microsoft Word, Microsoft PowerPoint.
+
+Languages Turkish
+======
+(mother tongue); Persian (national language); English (fluent); Arabic (intermediate).

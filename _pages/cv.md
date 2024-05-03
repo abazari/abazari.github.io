@@ -51,12 +51,8 @@ singular kernel, October 2020.
 
 Skills
 ======
-
-======
-Software Programming
----
-Python, MATLAB, MAPLE, and C++.
-Computer skills LATEX, Microsoft Word, Microsoft PowerPoint.
+* **Software Programming** *: Python, MATLAB, MAPLE, and C++.
+* **Computer skills** *: LATEX, Microsoft Word, Microsoft PowerPoint.
 
 Languages Turkish
 ======

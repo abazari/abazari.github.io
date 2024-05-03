@@ -35,15 +35,14 @@ Additional information can be found in the [CV](http://abazari.github.io/files/C
 * Researcher, University of Mohaghegh Ardabili, Ardabil, Iran, 2008-2009.
 
 # Theses Supervised
-* **MSc Thesis**
-   * Elaheh Amanvand, Speckle noise removal in ultrasound images by total variation method,
-December 2023.
+**MSc Thesis**
+   * Elaheh Amanvand, Speckle noise removal in ultrasound images by total variation method, 2023.
    * Leila Kazemi, Numerical study of functional integro-differential equations having variable
-bounds, October 2022.
+bounds, 2022.
    * Vahid Yarizadeh, Numerical study of a partial integro-differrntial equation with a weakly
-singular kernel, October 2020.
+singular kernel, 2020.
 
 # Skills
-* **Software Programming** *: Python, MATLAB, MAPLE, and C++.
+* **Software Programming**: Python, MATLAB, MAPLE, and C++.
 * **Computer skills** *: LATEX, Microsoft Word, Microsoft PowerPoint.
-* **Languages** *: Turkish (mother tongue); Persian (national language); English (fluent); Arabic (intermediate).
+* **Languages**: Turkish (mother tongue); Persian (national language); English (fluent); Arabic (intermediate).

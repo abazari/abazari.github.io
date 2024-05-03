@@ -21,7 +21,7 @@ Contact Information
 
 Department of Mathematics, University of Mohaghegh Ardabili, Ardabil, Iran.
 
-E-mail(s): [abazari-r@uma.ac.ir](abazari-r@uma.ac.ir), [abazari.r@gmail.com](abazari.r@gmail.com).
+E-mail(s): abazari-r@uma.ac.ir, abazari.r@gmail.com.
 
 Tel (office): (+98)45 3150 6024.
 

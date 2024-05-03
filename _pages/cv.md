@@ -36,11 +36,11 @@ Additional information can be found in the [CV](http://abazari.github.io/files/C
 
 # Theses Supervised
 * **MSc Thesis**
-     * Elaheh Amanvand, Speckle noise removal in ultrasound images by total variation method,
+   * Elaheh Amanvand, Speckle noise removal in ultrasound images by total variation method,
 December 2023.
-     * Leila Kazemi, Numerical study of functional integro-differential equations having variable
+   * Leila Kazemi, Numerical study of functional integro-differential equations having variable
 bounds, October 2022.
-     * Vahid Yarizadeh, Numerical study of a partial integro-differrntial equation with a weakly
+   * Vahid Yarizadeh, Numerical study of a partial integro-differrntial equation with a weakly
 singular kernel, October 2020.
 
 # Skills

@@ -24,14 +24,14 @@ author:
   avatar           : "profile.png"
   name             : "Reza Abazari"
   pronouns         : # example: "she/her"  
-  bio              : "Assoc. Prof. of Applied Mathematics"
+  bio              : "Asst. Prof. of Applied Mathematics"
   location         : "Ardabil, IRAN"
   employer         : "University of Mohaghegh Ardabili"
   uri              : "https://academics.uma.ac.ir/profiles?lng=en&name=abazari-r"
   email            : "abazari-r@uma.ac.ir" 
 
   # Academic websites
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=28767526200"
+  impactstory      : "https://www.scopus.com/authid/detail.uri?authorId=28767526200"
   googlescholar    : "https://scholar.google.com/citations?user=rqSaUX8AAAAJ&hl=en"
   #impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-0125-2958"

@@ -41,8 +41,9 @@ Researching Experience
 
 Theses Supervised
 ======
+======
 MSc Thesis
--------
+======
 * Elaheh Amanvand, Speckle noise removal in ultrasound images by total variation method,
 December 2023.
 * Leila Kazemi, Numerical study of functional integro-differential equations having variable

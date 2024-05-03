@@ -40,8 +40,7 @@ Researching Experience
 * Researcher, University of Mohaghegh Ardabili, Ardabil, Iran, 2008-2009.
 
 # Theses Supervised
-MSc Thesis
-======
+* **MSc Thesis** *
 * Elaheh Amanvand, Speckle noise removal in ultrasound images by total variation method,
 December 2023.
 * Leila Kazemi, Numerical study of functional integro-differential equations having variable

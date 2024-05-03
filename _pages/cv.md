@@ -38,3 +38,25 @@ Researching Experience
 * Researcher, University of Tabriz, Tabriz, Iran, 2014-2018.
 * Researcher, Young Researchers and Elite Club, Ardabil, Iran, 2009-2014.
 * Researcher, University of Mohaghegh Ardabili, Ardabil, Iran, 2008-2009.
+
+Theses Supervised
+======
+MSc Thesis
+-------
+* Elaheh Amanvand, Speckle noise removal in ultrasound images by total variation method,
+December 2023.
+* Leila Kazemi, Numerical study of functional integro-differential equations having variable
+bounds, October 2022.
+* Vahid Yarizadeh, Numerical study of a partial integro-differrntial equation with a weakly
+singular kernel, October 2020.
+
+Skills
+=======
+Software Programming
+Python, MATLAB, MAPLE and C++.
+Computer skills L
+A
+T
+E
+X, Microsoft Word, Microsoft Excel, Microsoft Power Point.
+Languages Turkish (mother tongue); Persian (national language); English (fluent); Arabic (intermediate).

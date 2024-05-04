@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Journal Papers
-======
+### Journal Papers
 * R. Abazari, H. Rezazadeh, L. Akinyemi, M. Inc, Numerical simulation of a binary alloy of 2D Cahn–Hilliard model
 for phase separation, Comp. Appl. Math. 41, 389 (2022). https://doi.org/10.1007/s40314-022-02109-5.
 * E.U Yilmaz, F.S Khodad, Y.S Ozkan, R. Abazari et. al, Manakov model of coupled NLS equation and its optical
@@ -110,8 +109,7 @@ Prob. Eng, (2009), Article ID 969610, 17 pages, doi:10.1155/2009/969610.
 * A. Borhanifar, Reza Abazari, Numerical Solution of Second-Order Matrix Differential Models Using Cubic Matrix
 Splines, Appl. Math. Sci, 1 (59) (2007) 2927-2937
   
-Manuscripts in preparation
-======
+### Manuscripts in preparation
 * Alternative directional method for a weighted sum of anisotropic and isotropic TV image reconstruction.
 * Intrinsically parallel difference method for the partial-integro differential equations with weakly singular kernel.
 * Optimal error estimates of finite difference methods for the 2D Kuramoto-Tsuzuki equation.

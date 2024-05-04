@@ -35,7 +35,7 @@ Additional information can be found in the [CV](http://abazari.github.io/files/C
 * Researcher, University of Mohaghegh Ardabili, Ardabil, Iran, 2008-2009.
 
 ## Theses Supervised
-### MSc Thesis
+**MSc Thesis**
    * Elaheh Amanvand, Speckle noise removal in ultrasound images by total variation method, 2023.
    * Leila Kazemi, Numerical study of functional integro-differential equations having variable
 bounds, 2022.

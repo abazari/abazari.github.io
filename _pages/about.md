@@ -13,21 +13,16 @@ I got my Ph.D. in Applied Mathematics at the [University of Tabriz](https://tabr
 
 
 
-Research Interests
-======
-My general interest is *Applied Mathematics*, but it includes, specifically, 
+## Research Interests
+My general interest is **-Applied Mathematics_**, but it includes, specifically, 
 * Computational Mathematics, 
 * Mathematical methods in medical sciences, 
 * Medical Image analysis.
 
-Contact Information
-======
-
-Department of Mathematics, University of Mohaghegh Ardabili, Ardabil, Iran.
-
-E-mail(s): abazari-r@uma.ac.ir, abazari.r@gmail.com.
-
-Tel (office): (+98)45 3150 6024.
+## Contact Information
+<address>
+Department of Mathematics,<br /> University of Mohaghegh Ardabili,<br /> Ardabil, Iran.<br /> E-mail(s): abazari-r@uma.ac.ir, <br />        abazari.r@gmail.com.<br /> Tel (office): (+98)45 3150 6024.
+</address>
 
 
 

@@ -44,5 +44,5 @@ singular kernel, 2020.
 
 # Skills
 * **Software Programming**: Python, MATLAB, MAPLE, and C++.
-* **Computer skills** *: LATEX, Microsoft Word, Microsoft PowerPoint.
+* **Computer skills**: LATEX, Microsoft Word, Microsoft PowerPoint.
 * **Languages**: Turkish (mother tongue); Persian (national language); English (fluent); Arabic (intermediate).

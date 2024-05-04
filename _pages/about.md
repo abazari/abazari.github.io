@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Home"
+title: "About me"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /home/
-  - /home.html
+  - /about/
+  - /about.html
 ---
 I am currently an Assistant Professor in the Department of Mathematics at the [University of Mohaghegh Ardabili](https://uma.ac.ir). Before joining the University of Mohaghegh Ardabili, I was a Research Member at the [Young Researchers and Elite Club](https://bpj.ir/index_e.aspx) in Ardabil, Iran.
 

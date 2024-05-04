@@ -11,11 +11,11 @@ redirect_from:
 
 Academic Year: 2024 Spring
 ======
-* **Foundations of Numerical Analysis**- University of Mohaghegh Ardabili, an undergraduate-level course.
-
+* **Foundations of Numerical Analysis**- Instructor, University of Mohaghegh Ardabili, an undergraduate-level course.
 The course deals with basic topics of Numerical Analysis, with particular attention to the study of error, linear algebra and the solution of ordinary differential equations.
 
-* **Numerical Analysis**- University of Mohaghegh Ardabili, an undergraduate-level course.
+* **Numerical Analysis**- Instructor, University of Mohaghegh Ardabili, an undergraduate-level course.
+
 # Educations
 * **PhD Applied Mathematics**, University of Tabriz, Tabriz, Iran, 2017.
 * **MSc Applied Mathematics**, University of Mohaghegh Ardabili, Ardabil, Iran, 2008.

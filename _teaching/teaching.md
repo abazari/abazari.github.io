@@ -21,7 +21,7 @@ Academic Year: 2023 Fall
 * **Calculus I**- Instructor, University of Mohaghegh Ardabili, an undergraduate-level course.
 * **Numerical ODE**- Instructor, University of Mohaghegh Ardabili, an undergraduate-level course.
 
-  Academic Year: 2023 Spring
+Academic Year: 2023 Spring
 ======
 * **Foundations of Numerical Analysis**- Instructor, University of Mohaghegh Ardabili, an undergraduate-level course.
 * **Numerical Analysis**- Instructor, University of Mohaghegh Ardabili, an undergraduate-level course.

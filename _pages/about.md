@@ -15,7 +15,10 @@ I got my Ph.D. in Applied Mathematics at the [University of Tabriz](https://tabr
 
 Research Interests
 ======
-My general interest is Applied Mathematics, but it includes, specifically, 1-computational Mathematics, 2-mathematical methods in medical sciences, and 3-medical Image analysis.
+My general interest is Applied Mathematics, but it includes, specifically, 
+* Computational Mathematics, 
+* Mathematical methods in medical sciences, 
+* Medical Image analysis.
 
 Contact Information
 ======

@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ### Journal Papers
-* R. Abazari, H. Rezazadeh, L. Akinyemi, M. Inc, Numerical simulation of a binary alloy of 2D Cahn–Hilliard model
-for phase separation, Comp. Appl. Math. 41, 389 (2022). https://doi.org/10.1007/s40314-022-02109-5.
+* R. Abazari, H. Rezazadeh, L. Akinyemi, M. Inc, [Numerical simulation of a binary alloy of 2D Cahn–Hilliard model
+for phase separation](https://doi.org/10.1007/s40314-022-02109-5), Comp. Appl. Math. 41, 389 (2022). 
 * E.U Yilmaz, F.S Khodad, Y.S Ozkan, R. Abazari et. al, Manakov model of coupled NLS equation and its optical
 soliton solutions, Journal of Ocean Engineering and Science, (2022), https://doi.org/10.1016/j.joes.2022.03.005.
 * Hadi Rezazadeh, Meryem Odabasi, Kalim U.Tariq, Reza Abazari & Haci Mehmet Baskonus, On the conformable

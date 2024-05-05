@@ -14,10 +14,10 @@ redirect_from:
 for phase separation](https://doi.org/10.1007/s40314-022-02109-5), Comp. Appl. Math. 41, 389 (2022). 
 * E.U Yilmaz, F.S Khodad, Y.S Ozkan, R. Abazari et. al, [Manakov model of coupled NLS equation and its optical
 soliton solutions](https://doi.org/10.1016/j.joes.2022.03.005), Journal of Ocean Engineering and Science, (2022).
-* Hadi Rezazadeh, Meryem Odabasi, Kalim U.Tariq, Reza Abazari & Haci Mehmet Baskonus, On the conformable
-nonlinear schrödinger equation with second order spatiotemporal and group velocity dispersion coefficients, Chinese Journal of Physics, 72 (2021) 403–414.
-* Hadi Rezazadeh, Reza Abazari, Mibaile Justin, Ahmet Bekir & Alper Korkmaz, Bright and Singular Optical
-Solitons in Nonlinear Negative-Index Materials with Quadratic–Cubic Nonlinearity, Arabian Journal for Science
+* Hadi Rezazadeh, Meryem Odabasi, Kalim U.Tariq, Reza Abazari & Haci Mehmet Baskonus, [On the conformable
+nonlinear schrödinger equation with second order spatiotemporal and group velocity dispersion coefficients](https://doi.org/10.1016/j.cjph.2021.01.012), Chinese Journal of Physics, 72 (2021) 403–414.
+* Hadi Rezazadeh, Reza Abazari, Mibaile Justin, Ahmet Bekir & Alper Korkmaz, [Bright and Singular Optical
+Solitons in Nonlinear Negative-Index Materials with Quadratic–Cubic Nonlinearity](https://doi.org/10.1007/s13369-020-05194-y), Arabian Journal for Science
 and Engineering volume 46 (2021) 5977–5991.
 * Adil Jhangeer, Hadi Rezazadeh, Reza Abazari, Kenan Yildirim, Sumaira Sharif & FarheenI braheem, Lie analysis,
 conserved quantities and solitonic structures of Calogero-Degasperis-Fokas equation, Alexandria Engineering

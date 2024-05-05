@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Academic Year: 2024 Spring
-* **Foundations of Numerical Analysis**- Instructor, University of Mohaghegh Ardabili, an undergraduate-level course.
+* **Foundations of Numerical Analysis**- Instructor, University of Mohaghegh Ardabili, an <ins>undergraduate</ins>-level course.
 * **Numerical Analysis**- Instructor, University of Mohaghegh Ardabili, an undergraduate-level course.
 * **Numerical Linear Algebra**- Instructor, University of Mohaghegh Ardabili, an undergraduate-level course.
 

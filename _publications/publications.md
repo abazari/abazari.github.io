@@ -17,15 +17,12 @@ soliton solutions](https://doi.org/10.1016/j.joes.2022.03.005), Journal of Ocean
 * Hadi Rezazadeh, Meryem Odabasi, Kalim U.Tariq, Reza Abazari & Haci Mehmet Baskonus, [On the conformable
 nonlinear schrödinger equation with second order spatiotemporal and group velocity dispersion coefficients](https://doi.org/10.1016/j.cjph.2021.01.012), Chinese Journal of Physics, 72 (2021) 403–414.
 * Hadi Rezazadeh, Reza Abazari, Mibaile Justin, Ahmet Bekir & Alper Korkmaz, [Bright and Singular Optical
-Solitons in Nonlinear Negative-Index Materials with Quadratic–Cubic Nonlinearity](https://doi.org/10.1007/s13369-020-05194-y), Arabian Journal for Science
-and Engineering volume 46 (2021) 5977–5991.
-* Adil Jhangeer, Hadi Rezazadeh, Reza Abazari, Kenan Yildirim, Sumaira Sharif & FarheenI braheem, Lie analysis,
-conserved quantities and solitonic structures of Calogero-Degasperis-Fokas equation, Alexandria Engineering
-Journal, 60 (2), (2021) 2513–2523.
-* Hadi Rezazadeh, Reza Abazari, Mostafa M. A. Khater, Mustafa Inc, and Dumitru Baleanu, New optical solitons
-of conformable resonant nonlinear Schrödinger’s equation, Open Physics, 18 (2020) 761–769.
-* Reza Abazari, Kenan Yildirim, Quntic B-spline method for numerical solution of the Rosenau–Burgers equation,
-Sigma, 37 (3), (2019) 967–979.
+Solitons in Nonlinear Negative-Index Materials with Quadratic–Cubic Nonlinearity](https://doi.org/10.1007/s13369-020-05194-y), Arabian Journal for Science and Engineering, 46 (2021) 5977–5991.
+* Adil Jhangeer, Hadi Rezazadeh, Reza Abazari, Kenan Yildirim, Sumaira Sharif & FarheenI braheem, [Lie analysis,
+conserved quantities and solitonic structures of Calogero-Degasperis-Fokas equation](https://doi.org/10.1016/j.aej.2020.12.040), Alexandria Engineering Journal, 60 (2), (2021) 2513–2523.
+* Hadi Rezazadeh, Reza Abazari, Mostafa M. A. Khater, Mustafa Inc, and Dumitru Baleanu, [New optical solitons
+of conformable resonant nonlinear Schrödinger’s equation](https://doi.org/10.1515/phys-2020-0137), Open Physics, 18 (2020) 761–769.
+* Reza Abazari, Kenan Yildirim, [Quntic B-spline method for numerical solution of the Rosenau–Burgers equation](https://dergipark.org.tr/en/pub/sigma/issue/65390/1008913), Sigma, 37 (3), (2019) 967–979.
 * Reza Abazari, Kenan Yildirim, Numerical study of Sivashinsky equation using a splitting scheme based on
 Crank–Nicolson method, Math. Meth. Appl .Sci., 42(16), (2019) 5509-5521.
 * Reza Abazari, Mehrdad Lakestani, Non-subsampled shearlet transform and log-transform methods for despeckling

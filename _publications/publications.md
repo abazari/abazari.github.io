@@ -27,10 +27,10 @@ of conformable resonant nonlinear Schrödinger’s equation](https://doi.org/10.
 Crank–Nicolson method](https://doi.org/10.1002/mma.5454), Math. Meth. Appl .Sci., 42(16), (2019) 5509-5521.
 * Reza Abazari, Mehrdad Lakestani, [Non-subsampled shearlet transform and log-transform methods for despeckling
 of medical ultrasound images](https://content.iospress.com/articles/informatica/inf1210), Informatica, 30(1) (2019) 1–19.
-* Reza Abazari, Shabnam Jamshidzadeh, Gangwei Wang, Mathematical modeling of DNA vibrational dynamic and
-its solitary wave solutions, Rev. Mex. Fis., 64 (2018) 590–597.
-* Reza Abazari, Mehrdad Lakestani, A hybrid denoising algorithm based on shearlet transform method and
-Yaroslavskys filter, Multimed. Tools. Appl., 77 (2018) 17829–17851.
+* Reza Abazari, Shabnam Jamshidzadeh, Gangwei Wang, [Mathematical modeling of DNA vibrational dynamic and
+its solitary wave solutions](https://doi.org/10.31349/revmexfis.64.590), Rev. Mex. Fis., 64 (2018) 590–597.
+* Reza Abazari, Mehrdad Lakestani, [A hybrid denoising algorithm based on shearlet transform method and
+Yaroslavskys filter](https://doi.org/10.1007/s11042-018-5648-7), Multimed. Tools. Appl., 77 (2018) 17829–17851.
 * Reza Abazari, Mehrdad Lakestani, Fourier based discrete shearlet transform for speckle noise reduction in medical
 ultrasound images, Curr. Med. Imaging Rev., 14 (2018) 477–483.
 * Shabnam Jamshidzadeh, Reza Abazari, Solitary wave solutions of three special type of Boussinesq equations,

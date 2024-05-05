@@ -99,7 +99,7 @@ equations, Comput. Fluids, 39 (2010), 1957-1963.
 differential transformation method, Comput. Math. Appl, 59 (2010) 2711–2722.
 * Reza Abazari, The (G’/G)-expansion method for Tzitzeica type nonlinear evolution equations, Math. Comput.
 Model, 52 (2010) 1834–1845.
-* A. Shabani Shahrbabaki, Reza Abazari, Perturbation method for heat exchange between a gas and solid particles,
+* A. Shabani Shahrbabaki, Reza Abazari, [Perturbation method for heat exchange between a gas and solid particles](https://doi.org/10.1007/s10808-009-0129-4),
 J. Appl. Mech. Tech. Phys, 50(6)(2009) 959–964.
 * A. Borhanifar, Reza Abazari, An unconditionally stable parallel difference scheme for Telegraph equation, Math.
 Prob. Eng, (2009), Article ID 969610, 17 pages, doi:10.1155/2009/969610.
@@ -113,7 +113,7 @@ Splines, Appl. Math. Sci, 1 (59) (2007) 2927-2937
 * Directional total generalized variation (DTGV) and shearlet method for image reconstruction.
 * A high-order kernel smoothing model with shearlet transform for Image restoration.
 * Three-dimensional MRI reconstruction via weighted difference of isotropic-anisotropic TV method.
-* Reza Abazari, Kenan Yildirim, Numerical study of the 2D Cahn-Hilliard model of phase separation with logarithmic
+* Numerical study of the 2D Cahn-Hilliard model of phase separation with logarithmic
 potential function.
 
 

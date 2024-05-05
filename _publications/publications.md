@@ -23,10 +23,10 @@ conserved quantities and solitonic structures of Calogero-Degasperis-Fokas equat
 * Hadi Rezazadeh, Reza Abazari, Mostafa M. A. Khater, Mustafa Inc, and Dumitru Baleanu, [New optical solitons
 of conformable resonant nonlinear Schrödinger’s equation](https://doi.org/10.1515/phys-2020-0137), Open Physics, 18 (2020) 761–769.
 * Reza Abazari, Kenan Yildirim, [Quntic B-spline method for numerical solution of the Rosenau–Burgers equation](https://dergipark.org.tr/en/pub/sigma/issue/65390/1008913), Sigma, 37 (3), (2019) 967–979.
-* Reza Abazari, Kenan Yildirim, Numerical study of Sivashinsky equation using a splitting scheme based on
-Crank–Nicolson method, Math. Meth. Appl .Sci., 42(16), (2019) 5509-5521.
-* Reza Abazari, Mehrdad Lakestani, Non-subsampled shearlet transform and log-transform methods for despeckling
-of medical ultrasound images, Informatica, 30(1) (2019) 1–19.
+* Reza Abazari, Kenan Yildirim, [Numerical study of Sivashinsky equation using a splitting scheme based on
+Crank–Nicolson method](https://doi.org/10.1002/mma.5454), Math. Meth. Appl .Sci., 42(16), (2019) 5509-5521.
+* Reza Abazari, Mehrdad Lakestani, [Non-subsampled shearlet transform and log-transform methods for despeckling
+of medical ultrasound images](https://content.iospress.com/articles/informatica/inf1210), Informatica, 30(1) (2019) 1–19.
 * Reza Abazari, Shabnam Jamshidzadeh, Gangwei Wang, Mathematical modeling of DNA vibrational dynamic and
 its solitary wave solutions, Rev. Mex. Fis., 64 (2018) 590–597.
 * Reza Abazari, Mehrdad Lakestani, A hybrid denoising algorithm based on shearlet transform method and

@@ -12,8 +12,8 @@ redirect_from:
 ### Journal Papers
 * R. Abazari, H. Rezazadeh, L. Akinyemi, M. Inc, [Numerical simulation of a binary alloy of 2D Cahn–Hilliard model
 for phase separation](https://doi.org/10.1007/s40314-022-02109-5), Comp. Appl. Math. 41, 389 (2022). 
-* E.U Yilmaz, F.S Khodad, Y.S Ozkan, R. Abazari et. al, Manakov model of coupled NLS equation and its optical
-soliton solutions, Journal of Ocean Engineering and Science, (2022), https://doi.org/10.1016/j.joes.2022.03.005.
+* E.U Yilmaz, F.S Khodad, Y.S Ozkan, R. Abazari et. al, [Manakov model of coupled NLS equation and its optical
+soliton solutions](https://doi.org/10.1016/j.joes.2022.03.005), Journal of Ocean Engineering and Science, (2022).
 * Hadi Rezazadeh, Meryem Odabasi, Kalim U.Tariq, Reza Abazari & Haci Mehmet Baskonus, On the conformable
 nonlinear schrödinger equation with second order spatiotemporal and group velocity dispersion coefficients, Chinese Journal of Physics, 72 (2021) 403–414.
 * Hadi Rezazadeh, Reza Abazari, Mibaile Justin, Ahmet Bekir & Alper Korkmaz, Bright and Singular Optical

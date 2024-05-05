@@ -1,7 +1,7 @@
 ---
 layout: archive
-#title: "Teaching"
-permalink: /teaching/
+#title: "Events"
+permalink: /events/
 author_profile: true
 redirect_from:
   - /resume

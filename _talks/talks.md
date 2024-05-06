@@ -16,6 +16,7 @@ Tabriz, Iran, 21-29 November, 2017. [Talk]
 Iran, 21-29 November, 2016. [Talk]
 * Reza Abazari, The (G’/G)-expansion method for the coupled Boussinesq equations, International Conference on
 Mechanical Behavior of Materials, ICM 11, June 5-9, 2011, Milano, Italy. [Talk]
+
 ### Seminar
 * Reza Abazari, Micro-Local Analysis and its Applications, Institute for Advanced Studies in Basic Sciences
 (IASBS), Zanjan, Iran, 23-25 April, 2017.

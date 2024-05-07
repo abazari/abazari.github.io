@@ -47,7 +47,7 @@ to the Benjamin–Bona–Mahoney–Burgers equation with dual-power law nonlinea
 * Reza Abazari, [General solution of a special class of nonlinear BBM-B equation by using the (G’/G)-expansion
 method](https://rrp.nipne.ro/2014_66_2/A4.pdf), Rom. Rep. Phys., 66(2), (2014) 286–295.
 * Rafie Rafiezadeh, Reza Abazari, [Weighted Fuzzy Transform and its application for approximation of Discrete
-Functions by Continuous Functions]((https://doi.org/10.3233/IFS-130914), J. Intell. Fuzzy Syst., 26, (2014) 2437-2444.
+Functions by Continuous Functions](https://doi.org/10.3233/IFS-130914), J. Intell. Fuzzy Syst., 26, (2014) 2437-2444.
 * Reza Abazari, [Application of extended Tanh function method on KdV–Burgers equation with forcing term](https://rjp.nipne.ro/2014_59_1-2/RomJPhys.59.p3.pdf), Rom. J. Phys., 56(1–2), (2014) 3–11.
 * Reza Abazari, A modified form of (G’/G)-expansion method and its application to Potential Kadomtsev–Petviashvili
 (PKP) equation, Jpn. J. Ind. Appl. Math, 31, (2014) 125-136.

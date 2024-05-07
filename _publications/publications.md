@@ -40,17 +40,15 @@ waves and other solutions to Nizhniki-Novikov-Veselov equation](http://www.acmij
 * Malek Abazari, Mahdia Gholamnejad, Ghodratollah Roshanaei, Reza Abazari, Yousef Roosta, Hossein Mahjub,
 [Estimation of Survival Rates in Patients with Lung Cancer in West Azerbaijan, the Northwest of Iran](https://doi.org/10.7314/apjcp.2015.16.9.3923), Asian Pac. J. Cancer Prev: APJCP 16 (9)(2015) 3923–3926.
 * Reza Abazari, Shabnam Jamshidzadeh, [Exact solitary wave solutions of the complex Klein-Gordon equation](https://doi.org/10.1016/j.ijleo.2015.05.056), Optik, 126 (2015) 1970-1975.
-* Reza Abazari, Rasoul Abazari, Numerical solution of the Rosenau equation using quintic collocation B-spline
-method, Iranian J. Sci. Technol. A., 39A3 (2015) 281–288.
-* Gang–Wei Wang, Tian–zhou Xu, Reza Abazari, Zlatko Jovanoski, Anjan Biswas, Shock waves and other solutions
-to the Benjamin–Bona–Mahoney–Burgers equation with dual-power law nonlinearity, Acta Phys. Pol. A., 126,
-(2014) 1221–1225.
-* Reza Abazari, General solution of a special class of nonlinear BBM-B equation by using the (G’/G)-expansion
-method, Rom. Rep. Phys., 66(2), (2014) 286–295.
-* Rafie Rafiezadeh, Reza Abazari, Weighted Fuzzy Transform and its application for approximation of Discrete
-Functions by Continuous Functions, J. Intell. Fuzzy Syst., 26, (2014) 2437-2444.
-* Reza Abazari, Application of extended Tanh function method on KdV–Burgers equation with forcing term, Rom.
-J. Phys., 56(1–2), (2014) 3–11.
+* Reza Abazari, Rasoul Abazari, [Numerical solution of the Rosenau equation using quintic collocation B-spline
+method](https://doi.org/10.22099/ijsts.2015.3152), Iranian J. Sci. Technol. A., 39A3 (2015) 281–288.
+* Gang–Wei Wang, Tian–zhou Xu, Reza Abazari, Zlatko Jovanoski, Anjan Biswas, [Shock waves and other solutions
+to the Benjamin–Bona–Mahoney–Burgers equation with dual-power law nonlinearity](https://doi.org/10.12693/APhysPolA.126.1221), Acta Phys. Pol. A., 126, (2014) 1221–1225.
+* Reza Abazari, [General solution of a special class of nonlinear BBM-B equation by using the (G’/G)-expansion
+method](https://rrp.nipne.ro/2014_66_2/A4.pdf), Rom. Rep. Phys., 66(2), (2014) 286–295.
+* Rafie Rafiezadeh, Reza Abazari, [Weighted Fuzzy Transform and its application for approximation of Discrete
+Functions by Continuous Functions]((https://doi.org/10.3233/IFS-130914), J. Intell. Fuzzy Syst., 26, (2014) 2437-2444.
+* Reza Abazari, [Application of extended Tanh function method on KdV–Burgers equation with forcing term](https://rjp.nipne.ro/2014_59_1-2/RomJPhys.59.p3.pdf), Rom. J. Phys., 56(1–2), (2014) 3–11.
 * Reza Abazari, A modified form of (G’/G)-expansion method and its application to Potential Kadomtsev–Petviashvili
 (PKP) equation, Jpn. J. Ind. Appl. Math, 31, (2014) 125-136.
 * Reza Abazari, Adem Kilicman, Application of differential transform method on nonlinear integro-differential

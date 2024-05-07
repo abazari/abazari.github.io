@@ -39,8 +39,7 @@ Nonlinear Dyn 88 (2017), 2797–2805.
 * Gangwei Wang, Tianzhou Xu, Hassan A. Zedan, Reza Abazari, Houria Triki, Anjan Biswas, [Solitary waves, Shock
 waves and other solutions to Nizhniki-Novikov-Veselov equation](http://www.acmij.az/view.php?lang=az&menu=journal&id=397), Appl. Comput. Math., 14(3) (2015) 260–283.
 * Malek Abazari, Mahdia Gholamnejad, Ghodratollah Roshanaei, Reza Abazari, Yousef Roosta, Hossein Mahjub,
-Estimation of Survival Rates in Patients with Lung Cancer in West Azerbaijan, the Northwest of Iran, Asian Pac.
-J. Cancer Prev: APJCP 16 (9)(2015) 3923–3926.
+[Estimation of Survival Rates in Patients with Lung Cancer in West Azerbaijan, the Northwest of Iran](https://doi.org/10.7314/apjcp.2015.16.9.3923), Asian Pac. J. Cancer Prev: APJCP 16 (9)(2015) 3923–3926.
 * Reza Abazari, Shabnam Jamshidzadeh, [Exact solitary wave solutions of the complex Klein-Gordon equation](https://doi.org/10.1016/j.ijleo.2015.05.056), Optik, 126 (2015) 1970-1975.
 * Reza Abazari, Rasoul Abazari, Numerical solution of the Rosenau equation using quintic collocation B-spline
 method, Iranian J. Sci. Technol. A., 39A3 (2015) 281–288.

@@ -49,18 +49,16 @@ method](https://rrp.nipne.ro/2014_66_2/A4.pdf), Rom. Rep. Phys., 66(2), (2014) 2
 * Rafie Rafiezadeh, Reza Abazari, [Weighted Fuzzy Transform and its application for approximation of Discrete
 Functions by Continuous Functions](https://doi.org/10.3233/IFS-130914), J. Intell. Fuzzy Syst., 26, (2014) 2437-2444.
 * Reza Abazari, [Application of extended Tanh function method on KdV–Burgers equation with forcing term](https://rjp.nipne.ro/2014_59_1-2/RomJPhys.59.p3.pdf), Rom. J. Phys., 56(1–2), (2014) 3–11.
-* Reza Abazari, A modified form of (G’/G)-expansion method and its application to Potential Kadomtsev–Petviashvili
-(PKP) equation, Jpn. J. Ind. Appl. Math, 31, (2014) 125-136.
-* Reza Abazari, Adem Kilicman, Application of differential transform method on nonlinear integro-differential
-equations with proportional delay, Neural Comput. Appl., 24, (2014), 391-397.
-* Reza Abazari, Malek Abazari, Numerical study of Burgers-Huxley equations via reduced differential transform
-method, Comp. Appl. Math., 32, (2013) 1–17.
+* Reza Abazari, [A modified form of (G’/G)-expansion method and its application to Potential Kadomtsev–Petviashvili
+(PKP) equation](https://doi.org/10.1007/s13160-013-0110-8), Jpn. J. Ind. Appl. Math, 31, (2014) 125-136.
+* Reza Abazari, Adem Kilicman, [Application of differential transform method on nonlinear integro-differential
+equations with proportional delay](https://doi.org/10.1007/s00521-012-1235-4), Neural Comput. Appl., 24, (2014), 391-397.
+* Reza Abazari, Malek Abazari, [Numerical study of Burgers-Huxley equations via reduced differential transform
+method](https://doi.org/10.1007/s40314-013-0001-2), Comp. Appl. Math., 32, (2013) 1–17.
 * Reza Abazari, Adem Kilicman, Numerical Study of Two-Dimensional Volterra Integral Equations by RDTM and
 Comparison with DTM, Abstr. Appl. Anal., (2013), Article ID 929478, 10 pages, doi:10.1155/2013/929478.
-* Reza Abazari, Solitary wave solutions of Klein-Gordon equation with quintic nonlinearity, J. Appl. Mech. Tech.
-Phys, 54 (3), (2013) 397-403.
-* Reza Abazari, On the exact solitary wave solutions of a special class of Benjamin-Bona-Mahony equation, Comput.
-Math. Math. Phys, 53 (9), (2013) 1371-1376.
+* Reza Abazari, [Solitary wave solutions of Klein-Gordon equation with quintic nonlinearity](https://doi.org/10.1134/S0021894413030073), J. Appl. Mech. Tech. Phys, 54 (3), (2013) 397-403.
+* Reza Abazari, [On the exact solitary wave solutions of a special class of Benjamin-Bona-Mahony equation](https://doi.org/10.1134/S0965542513090133), Comput. Math. Math. Phys, 53 (9), (2013) 1371-1376.
 * Reza Abazari, Adem Kilicman, Solitary wave solutions of the Boussinesq equation and its improved form, Math.
 Prob. Eng, Volume 2013, Article ID 468206, 8 pages http://dx.doi.org/10.1155/2013/468206.
 * Adem Kilicman, Reza Abazari, Travelling wave solutions of the Schrödinger-Boussinesq System, Abstr. Appl.

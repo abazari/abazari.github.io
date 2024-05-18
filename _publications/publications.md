@@ -1,32 +1,4 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
-redirect_from:
-  - /publications
----
 
-{% include base_path %}
-
-### Journal Papers
-* R. Abazari, H. Rezazadeh, L. Akinyemi, M. Inc, [Numerical simulation of a binary alloy of 2D Cahn–Hilliard model
-for phase separation](https://doi.org/10.1007/s40314-022-02109-5), Comp. Appl. Math. 41, 389 (2022). 
-* E.U Yilmaz, F.S Khodad, Y.S Ozkan, R. Abazari et. al, [Manakov model of coupled NLS equation and its optical
-soliton solutions](https://doi.org/10.1016/j.joes.2022.03.005), Journal of Ocean Engineering and Science, (2022).
-* Hadi Rezazadeh, Meryem Odabasi, Kalim U.Tariq, Reza Abazari & Haci Mehmet Baskonus, [On the conformable
-nonlinear schrödinger equation with second order spatiotemporal and group velocity dispersion coefficients](https://doi.org/10.1016/j.cjph.2021.01.012), Chinese Journal of Physics, 72 (2021) 403–414.
-* Hadi Rezazadeh, Reza Abazari, Mibaile Justin, Ahmet Bekir & Alper Korkmaz, [Bright and Singular Optical
-Solitons in Nonlinear Negative-Index Materials with Quadratic–Cubic Nonlinearity](https://doi.org/10.1007/s13369-020-05194-y), Arabian Journal for Science and Engineering, 46 (2021) 5977–5991.
-* Adil Jhangeer, Hadi Rezazadeh, Reza Abazari, Kenan Yildirim, Sumaira Sharif & FarheenI braheem, [Lie analysis,
-conserved quantities and solitonic structures of Calogero-Degasperis-Fokas equation](https://doi.org/10.1016/j.aej.2020.12.040), Alexandria Engineering Journal, 60 (2), (2021) 2513–2523.
-* Hadi Rezazadeh, Reza Abazari, Mostafa M. A. Khater, Mustafa Inc, and Dumitru Baleanu, [New optical solitons
-of conformable resonant nonlinear Schrödinger’s equation](https://doi.org/10.1515/phys-2020-0137), Open Physics, 18 (2020) 761–769.
-* Reza Abazari, Kenan Yildirim, [Quntic B-spline method for numerical solution of the Rosenau–Burgers equation](https://dergipark.org.tr/en/pub/sigma/issue/65390/1008913), Sigma, 37 (3), (2019) 967–979.
-* Reza Abazari, Kenan Yildirim, [Numerical study of Sivashinsky equation using a splitting scheme based on
-Crank–Nicolson method](https://doi.org/10.1002/mma.5454), Math. Meth. Appl .Sci., 42(16), (2019) 5509-5521.
-* Reza Abazari, Mehrdad Lakestani, [Non-subsampled shearlet transform and log-transform methods for despeckling
-of medical ultrasound images](https://content.iospress.com/articles/informatica/inf1210), Informatica, 30(1) (2019) 1–19.
 * Reza Abazari, Shabnam Jamshidzadeh, Gangwei Wang, [Mathematical modeling of DNA vibrational dynamic and
 its solitary wave solutions](https://doi.org/10.31349/revmexfis.64.590), Rev. Mex. Fis., 64 (2018) 590–597.
 * Reza Abazari, Mehrdad Lakestani, [A hybrid denoising algorithm based on shearlet transform method and
@@ -59,16 +31,14 @@ method](https://doi.org/10.1007/s40314-013-0001-2), Comp. Appl. Math., 32, (2013
 Comparison with DTM, Abstr. Appl. Anal., (2013), Article ID 929478, 10 pages, doi:10.1155/2013/929478.
 * Reza Abazari, [Solitary wave solutions of Klein-Gordon equation with quintic nonlinearity](https://doi.org/10.1134/S0021894413030073), J. Appl. Mech. Tech. Phys, 54 (3), (2013) 397-403.
 * Reza Abazari, [On the exact solitary wave solutions of a special class of Benjamin-Bona-Mahony equation](https://doi.org/10.1134/S0965542513090133), Comput. Math. Math. Phys, 53 (9), (2013) 1371-1376.
-* Reza Abazari, Adem Kilicman, Solitary wave solutions of the Boussinesq equation and its improved form, Math.
-Prob. Eng, Volume 2013, Article ID 468206, 8 pages http://dx.doi.org/10.1155/2013/468206.
-* Adem Kilicman, Reza Abazari, Travelling wave solutions of the Schrödinger-Boussinesq System, Abstr. Appl.
-Anal., (2012), Article ID 198398, 11 pages, doi:10.1155/2012/198398.
-* Reza Abazari, Comment on "A new method for a generalized Hirota-Satsuma coupled KdV equation, [Appl.
-Math. Comput. 217 (17) (2011) 7117-7125]", Appl. Math. Comput, 218 (2012) 5838-5839.
-* Reza Abazari, Malek Abazari, Numerical simulation of generalized Hirota–Satsuma coupled KdV equation by
-RDTM and Comparison with DTM, Commun. Nonlinear Sci. Numer. Simulat, 17 (2012) 619–629.
-* Reza Abazari, Adem Kilicman, Solution of Second-Order IVP and BVP of Matrix Differential Models Using
-Matrix DTM, Abstr. Appl. Anal., (2012), Article ID 738346, 11 pages, doi:10.1155/2012/738346.
+* Reza Abazari, Adem Kilicman, [Solitary wave solutions of the Boussinesq equation and its improved form](https://doi.org/10.1155/2013/468206), Math. Prob. Eng, Volume 2013, Article ID 468206.
+* Adem Kilicman, Reza Abazari, [Travelling wave solutions of the Schrödinger-Boussinesq System](https://doi:10.1155/2012/198398), Abstr. Appl. Anal., (2012), Article ID 198398.
+* Reza Abazari, [Comment on "A new method for a generalized Hirota-Satsuma coupled KdV equation, [Appl.
+Math. Comput. 217 (17) (2011) 7117-7125]"](https://doi.org/10.1016/j.amc.2011.11.069), Appl. Math. Comput, 218 (2012) 5838-5839.
+* Reza Abazari, Malek Abazari, [Numerical simulation of generalized Hirota–Satsuma coupled KdV equation by
+RDTM and Comparison with DTM](https://doi.org/10.1016/j.cnsns.2011.05.022), Commun. Nonlinear Sci. Numer. Simulat, 17 (2012) 619–629.
+* Reza Abazari, Adem Kilicman, [Solution of Second-Order IVP and BVP of Matrix Differential Models Using
+Matrix DTM](HTTP://doi:10.1155/2012/738346), Abstr. Appl. Anal., (2012), Article ID 738346.
 * Reza Abazari, The modified (G’/G)-expansion method for exact solutions of the (3+1)-dimensional Jimbo–Miwaequation, Cankaya -Univ. J. Sci. Eng., 9(1) (2012), 59–67.
 * Adem Kilicman, Reza Abazari, Traveling wave solutions of the Schrödinger–Boussinesq system, Math. Prob.
 Eng., (2012), Article ID 198398, 11 pages doi:10.1155/2012/198398.
@@ -89,23 +59,3 @@ differential transformation method, Opt. Commun, 283 (2010) 2026-2031.
 equations, Comput. Fluids, 39 (2010), 1957-1963.
 * Reza Abazari, A. Borhanifar, Numerical study of the solution of the Burgers and coupled Burgers equations by
 differential transformation method, Comput. Math. Appl, 59 (2010) 2711–2722.
-* Reza Abazari, The (G’/G)-expansion method for Tzitzeica type nonlinear evolution equations, Math. Comput.
-Model, 52 (2010) 1834–1845.
-* A. Shabani Shahrbabaki, Reza Abazari, [Perturbation method for heat exchange between a gas and solid particles](https://doi.org/10.1007/s10808-009-0129-4),
-J. Appl. Mech. Tech. Phys, 50(6)(2009) 959–964.
-* A. Borhanifar, Reza Abazari, An unconditionally stable parallel difference scheme for Telegraph equation, Math.
-Prob. Eng, (2009), Article ID 969610, 17 pages, doi:10.1155/2009/969610.
-* A. Borhanifar, Reza Abazari, Numerical Solution of Second-Order Matrix Differential Models Using Cubic Matrix
-Splines, Appl. Math. Sci, 1 (59) (2007) 2927-2937
-  
-### Manuscripts in preparation
-* Alternative directional method for a weighted sum of anisotropic and isotropic TV image reconstruction.
-* Intrinsically parallel difference method for the partial-integro differential equations with weakly singular kernel.
-* Optimal error estimates of finite difference methods for the 2D Kuramoto-Tsuzuki equation.
-* Directional total generalized variation (DTGV) and shearlet method for image reconstruction.
-* A high-order kernel smoothing model with shearlet transform for Image restoration.
-* Three-dimensional MRI reconstruction via weighted difference of isotropic-anisotropic TV method.
-* Numerical study of the 2D Cahn-Hilliard model of phase separation with logarithmic
-potential function.
-
-

@@ -33,8 +33,8 @@ Comparison with DTM, Abstr. Appl. Anal., (2013), Article ID 929478, 10 pages, do
 * Reza Abazari, [On the exact solitary wave solutions of a special class of Benjamin-Bona-Mahony equation](https://doi.org/10.1134/S0965542513090133), Comput. Math. Math. Phys, 53 (9), (2013) 1371-1376.
 * Reza Abazari, Adem Kilicman, [Solitary wave solutions of the Boussinesq equation and its improved form](https://doi.org/10.1155/2013/468206), Math. Prob. Eng, Volume 2013, Article ID 468206.
 * Adem Kilicman, Reza Abazari, [Travelling wave solutions of the Schrödinger-Boussinesq System](https://doi:10.1155/2012/198398), Abstr. Appl. Anal., (2012), Article ID 198398.
-* Reza Abazari, [Comment on "A new method for a generalized Hirota-Satsuma coupled KdV equation, [Appl.
-Math. Comput. 217 (17) (2011) 7117-7125]"](https://doi.org/10.1016/j.amc.2011.11.069), Appl. Math. Comput, 218 (2012) 5838-5839.
+* Reza Abazari, Comment on "A new method for a generalized Hirota-Satsuma coupled KdV equation, [Appl.
+Math. Comput. 217 (17) (2011) 7117-7125]", Appl. Math. Comput, 218 (2012) 5838-5839.
 * Reza Abazari, Malek Abazari, [Numerical simulation of generalized Hirota–Satsuma coupled KdV equation by
 RDTM and Comparison with DTM](https://doi.org/10.1016/j.cnsns.2011.05.022), Commun. Nonlinear Sci. Numer. Simulat, 17 (2012) 619–629.
 * Reza Abazari, Adem Kilicman, [Solution of Second-Order IVP and BVP of Matrix Differential Models Using

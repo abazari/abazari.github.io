@@ -38,7 +38,7 @@ Math. Comput. 217 (17) (2011) 7117-7125]", Appl. Math. Comput, 218 (2012) 5838-5
 * Reza Abazari, Malek Abazari, [Numerical simulation of generalized Hirota–Satsuma coupled KdV equation by
 RDTM and Comparison with DTM](https://doi.org/10.1016/j.cnsns.2011.05.022), Commun. Nonlinear Sci. Numer. Simulat, 17 (2012) 619–629.
 * Reza Abazari, Adem Kilicman, [Solution of Second-Order IVP and BVP of Matrix Differential Models Using
-Matrix DTM](HTTP://doi:10.1155/2012/738346), Abstr. Appl. Anal., (2012), Article ID 738346.
+Matrix DTM](http://doi:10.1155/2012/738346), Abstr. Appl. Anal., (2012), Article ID 738346.
 * Reza Abazari, The modified (G’/G)-expansion method for exact solutions of the (3+1)-dimensional Jimbo–Miwaequation, Cankaya -Univ. J. Sci. Eng., 9(1) (2012), 59–67.
 * Adem Kilicman, Reza Abazari, Traveling wave solutions of the Schrödinger–Boussinesq system, Math. Prob.
 Eng., (2012), Article ID 198398, 11 pages doi:10.1155/2012/198398.

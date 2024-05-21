@@ -1,4 +1,3 @@
-
 * Reza Abazari, Shabnam Jamshidzadeh, Gangwei Wang, [Mathematical modeling of DNA vibrational dynamic and
 its solitary wave solutions](https://doi.org/10.31349/revmexfis.64.590), Rev. Mex. Fis., 64 (2018) 590–597.
 * Reza Abazari, Mehrdad Lakestani, [A hybrid denoising algorithm based on shearlet transform method and

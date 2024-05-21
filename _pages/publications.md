@@ -9,6 +9,15 @@ author_profile: true
  You can also find the articles on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=28767526200) or [Google Scholar](https://scholar.google.com/citations?user=rqSaUX8AAAAJ&hl=en) profiles.
 {% endif %}
 
+* R. Abazari, H. Rezazadeh, L. Akinyemi, M. Inc, Numerical simulation of a binary alloy of 2D Cahn–Hilliard model for phase separation, Comp. Appl. Math. 41, 389 (2022). https://doi.org/10.1007/s40314-022-02109-5.
+* E.U Yilmaz, F.S Khodad, Y.S Ozkan, R. Abazari et. al, Manakov model of coupled NLS equation and its optical soliton solutions, Journal of Ocean Engineering and Science, (2022), https://doi.org/10.1016/j.joes.2022.03.005.
+* Hadi Rezazadeh, Meryem Odabasi, Kalim U.Tariq, Reza Abazari & Haci Mehmet Baskonus, On the conformable nonlinear schrödinger equation with second order spatiotemporal and group velocity dispersion coefficients, Chinese Journal of Physics, 72 (2021) 403–414.
+* Hadi Rezazadeh, Reza Abazari, Mibaile Justin, Ahmet Bekir & Alper Korkmaz, Bright and Singular Optical Solitons in Nonlinear Negative-Index Materials with Quadratic–Cubic Nonlinearity, Arabian Journal for Science and Engineering volume 46 (2021) 5977–5991.
+* Adil Jhangeer, Hadi Rezazadeh, Reza Abazari, Kenan Yildirim, Sumaira Sharif & FarheenI braheem, Lie analysis, conserved quantities and solitonic structures of Calogero-Degasperis-Fokas equation, Alexandria Engineering Journal, 60 (2), (2021) 2513–2523.
+* Hadi Rezazadeh, Reza Abazari, Mostafa M. A. Khater, Mustafa Inc, and Dumitru Baleanu, New optical solitons of conformable resonant nonlinear Schrödinger’s equation, Open Physics, 18 (2020) 761–769.
+* Reza Abazari, Kenan Yildirim, Quntic B-spline method for numerical solution of the Rosenau–Burgers equation, Sigma, 37 (3), (2019) 967–979.
+* Reza Abazari, Kenan Yildirim, Numerical study of Sivashinsky equation using a splitting scheme based on Crank–Nicolson method, Math. Meth. Appl .Sci., 42(16), (2019) 5509-5521.
+* Reza Abazari, Mehrdad Lakestani, Non-subsampled shearlet transform and log-transform methods for despeckling of medical ultrasound images, Informatica, 30(1) (2019) 1–19.
 * Reza Abazari, Shabnam Jamshidzadeh, Gangwei Wang, [Mathematical modeling of DNA vibrational dynamic and its solitary wave solutions](https://doi.org/10.31349/revmexfis.64.590), Rev. Mex. Fis., 64 (2018) 590–597.
 * Reza Abazari, Mehrdad Lakestani, [A hybrid denoising algorithm based on shearlet transform method and Yaroslavskys filter](https://doi.org/10.1007/s11042-018-5648-7), Multimed. Tools. Appl., 77 (2018) 17829–17851.
 * Reza Abazari, Mehrdad Lakestani, [Fourier based discrete shearlet transform for speckle noise reduction in medical ultrasound images](http://dx.doi.org/10.2174/1573405613666170405150828), Curr. Med. Imaging Rev., 14 (2018) 477–483.

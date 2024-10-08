@@ -9,6 +9,7 @@ author_profile: true
  You can also find the articles on [Scopus](https://www.scopus.com/authid/detail.uri?authorId=28767526200) or [Google Scholar](https://scholar.google.com/citations?user=rqSaUX8AAAAJ&hl=en) profiles.
 {% endif %}
 
+* Reza Abazari, Kenan Yildirim, Numerical study of the 2D Cahn-Hilliard model of phase separation with logarithmic potential, J. Appl. Mech. Tech. Phys., (2024) accepted.
 * R. Abazari, H. Rezazadeh, L. Akinyemi, M. Inc, Numerical simulation of a binary alloy of 2D Cahn–Hilliard model for phase separation, Comp. Appl. Math. 41, 389 (2022). https://doi.org/10.1007/s40314-022-02109-5.
 * E.U Yilmaz, F.S Khodad, Y.S Ozkan, R. Abazari et. al, Manakov model of coupled NLS equation and its optical soliton solutions, Journal of Ocean Engineering and Science, (2022), https://doi.org/10.1016/j.joes.2022.03.005.
 * Hadi Rezazadeh, Meryem Odabasi, Kalim U.Tariq, Reza Abazari & Haci Mehmet Baskonus, On the conformable nonlinear schrödinger equation with second order spatiotemporal and group velocity dispersion coefficients, Chinese Journal of Physics, 72 (2021) 403–414.
